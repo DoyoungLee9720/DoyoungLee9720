@@ -63,7 +63,7 @@
 
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🌟 GitHub Stats </h2> <br> 
 
-<img src="https://github-readme-stats.vercel.app/api?username=DoyoungLee9720&custom_title=subin3578%27s%20Github%20Stat&bg_color=180,000000,&title_color=000000&text_color=000000" />
+<img src="https://github-readme-stats.vercel.app/api?username=DoyoungLee9720&custom_title=DoyoungLee9720%27s%20Github%20Stat&bg_color=180,000000,&title_color=000000&text_color=000000" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DoyoungLee9720&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000" height="196" />
 
 
